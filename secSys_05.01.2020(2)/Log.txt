@@ -1,0 +1,94 @@
+                   *** 
+ startSec: 20, endSec: 85, PackNum: 46, Probability: 0.702269 
+ packCount: 28361.000000 , mostActC: 8122.000000, S-SA: 1986.000000, avSize: 1004.406799, avTimeMostAct: 0.007504, F-S: -2061.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 30, endSec: 95, PackNum: 46, Probability: 0.725569 
+ packCount: 25430.000000 , mostActC: 5703.000000, S-SA: 1974.000000, avSize: 983.549316, avTimeMostAct: 0.008715, F-S: -2051.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 40, endSec: 105, PackNum: 46, Probability: 0.976834 
+ packCount: 20659.000000 , mostActC: 4171.000000, S-SA: 0.000000, avSize: 1041.528564, avTimeMostAct: 0.000724, F-S: -66.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 80, endSec: 145, PackNum: 46, Probability: 0.875228 
+ packCount: 14017.000000 , mostActC: 6925.000000, S-SA: 0.000000, avSize: 1062.385254, avTimeMostAct: 0.008364, F-S: 4.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 90, endSec: 155, PackNum: 46, Probability: 0.969164 
+ packCount: 14431.000000 , mostActC: 6924.000000, S-SA: 0.000000, avSize: 1061.542847, avTimeMostAct: 0.005101, F-S: 4.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 100, endSec: 165, PackNum: 46, Probability: 0.985400 
+ packCount: 16038.000000 , mostActC: 6924.000000, S-SA: 1.000000, avSize: 1055.952393, avTimeMostAct: 0.005101, F-S: -3.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 110, endSec: 175, PackNum: 46, Probability: 0.977448 
+ packCount: 16017.000000 , mostActC: 6924.000000, S-SA: 0.000000, avSize: 1058.976685, avTimeMostAct: 0.007011, F-S: -5.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 120, endSec: 185, PackNum: 46, Probability: 0.912365 
+ packCount: 21060.000000 , mostActC: 9387.000000, S-SA: 0.000000, avSize: 1067.159058, avTimeMostAct: 0.006568, F-S: -4.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 130, endSec: 195, PackNum: 46, Probability: 0.953445 
+ packCount: 19527.000000 , mostActC: 6873.000000, S-SA: 0.000000, avSize: 1045.379395, avTimeMostAct: 0.008966, F-S: -5.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 140, endSec: 205, PackNum: 46, Probability: 0.971350 
+ packCount: 18735.000000 , mostActC: 7783.000000, S-SA: 0.000000, avSize: 1058.615601, avTimeMostAct: 0.007189, F-S: 6.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 150, endSec: 215, PackNum: 46, Probability: 0.972855 
+ packCount: 17269.000000 , mostActC: 8191.000000, S-SA: 0.000000, avSize: 1067.120483, avTimeMostAct: 0.005787, F-S: 18.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 160, endSec: 225, PackNum: 46, Probability: 0.990298 
+ packCount: 16683.000000 , mostActC: 9650.000000, S-SA: 0.000000, avSize: 1083.837524, avTimeMostAct: 0.006004, F-S: 18.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 170, endSec: 235, PackNum: 46, Probability: 0.905737 
+ packCount: 20702.000000 , mostActC: 10088.000000, S-SA: 0.000000, avSize: 1041.366577, avTimeMostAct: 0.005186, F-S: 270.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 180, endSec: 245, PackNum: 46, Probability: 0.985400 
+ packCount: 20621.000000 , mostActC: 8724.000000, S-SA: 0.000000, avSize: 1014.276001, avTimeMostAct: 0.006444, F-S: 283.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 190, endSec: 255, PackNum: 46, Probability: 0.881135 
+ packCount: 16206.000000 , mostActC: 5405.000000, S-SA: 0.000000, avSize: 967.726074, avTimeMostAct: 0.007868, F-S: 399.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 260, endSec: 325, PackNum: 46, Probability: 0.957180 
+ packCount: 8864.000000 , mostActC: 2150.000000, S-SA: -1.000000, avSize: 903.512207, avTimeMostAct: 0.027908, F-S: 157.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 270, endSec: 335, PackNum: 46, Probability: 0.995986 
+ packCount: 7117.000000 , mostActC: 2148.000000, S-SA: -1.000000, avSize: 908.243896, avTimeMostAct: 0.022793, F-S: 178.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 280, endSec: 345, PackNum: 46, Probability: 0.973326 
+ packCount: 7040.000000 , mostActC: 2174.000000, S-SA: -1.000000, avSize: 922.525024, avTimeMostAct: 0.027734, F-S: 97.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 290, endSec: 355, PackNum: 46, Probability: 0.993908 
+ packCount: 7028.000000 , mostActC: 2174.000000, S-SA: -1.000000, avSize: 922.097473, avTimeMostAct: 0.022757, F-S: 99.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 310, endSec: 375, PackNum: 46, Probability: 0.859763 
+ packCount: 16825.000000 , mostActC: 8514.000000, S-SA: -1.000000, avSize: 505.054077, avTimeMostAct: 0.001282, F-S: 118.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 320, endSec: 385, PackNum: 46, Probability: 0.798707 
+ packCount: 17430.000000 , mostActC: 12293.000000, S-SA: 0.000000, avSize: 318.858002, avTimeMostAct: 0.001283, F-S: 147.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 330, endSec: 395, PackNum: 46, Probability: 0.800670 
+ packCount: 18990.000000 , mostActC: 12293.000000, S-SA: 1.000000, avSize: 369.107849, avTimeMostAct: 0.001283, F-S: 110.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 340, endSec: 405, PackNum: 46, Probability: 0.803524 
+ packCount: 20795.000000 , mostActC: 12293.000000, S-SA: 0.000000, avSize: 439.154602, avTimeMostAct: 0.001283, F-S: 110.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 350, endSec: 415, PackNum: 46, Probability: 0.802427 
+ packCount: 20722.000000 , mostActC: 12293.000000, S-SA: 0.000000, avSize: 428.368195, avTimeMostAct: 0.001283, F-S: 120.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 360, endSec: 425, PackNum: 46, Probability: 0.801733 
+ packCount: 21458.000000 , mostActC: 12293.000000, S-SA: -1.000000, avSize: 444.498688, avTimeMostAct: 0.001283, F-S: 196.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 370, endSec: 435, PackNum: 46, Probability: 0.870197 
+ packCount: 14917.000000 , mostActC: 7684.000000, S-SA: 1.000000, avSize: 482.214111, avTimeMostAct: 0.001284, F-S: 112.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 400, endSec: 465, PackNum: 46, Probability: 0.957014 
+ packCount: 10099.000000 , mostActC: 2163.000000, S-SA: 0.000000, avSize: 953.802063, avTimeMostAct: 0.027988, F-S: 122.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 410, endSec: 475, PackNum: 46, Probability: 0.943755 
+ packCount: 10156.000000 , mostActC: 2163.000000, S-SA: 0.000000, avSize: 969.680603, avTimeMostAct: 0.022958, F-S: 146.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 420, endSec: 485, PackNum: 46, Probability: 0.960057 
+ packCount: 9754.000000 , mostActC: 2163.000000, S-SA: -2.000000, avSize: 976.391724, avTimeMostAct: 0.022958, F-S: 142.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 430, endSec: 495, PackNum: 46, Probability: 0.856948 
+ packCount: 9568.000000 , mostActC: 3139.000000, S-SA: 0.000000, avSize: 1022.012756, avTimeMostAct: 0.020159, F-S: 81.000000 , susComb: 0.000000 
+                    *** 
+ startSec: 450, endSec: 515, PackNum: 46, Probability: 0.971779 
+ packCount: 6213.000000 , mostActC: 2177.000000, S-SA: 0.000000, avSize: 1057.494263, avTimeMostAct: 0.023018, F-S: 41.000000 , susComb: 0.000000 
+ 

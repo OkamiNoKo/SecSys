@@ -1,0 +1,6 @@
+200.008506, avTimeMostAct: 1.741839, F-S: 0 , susComb: 75 
+winStart(sec): 7270, winEnd(sec): 7335, packCount: 1095 , mostActC: 96, S-SA: 0, avSize: 195.718525, avTimeMostAct: 1.410764, F-S: 0 , susComb: 91 
+winStart(sec): 7280, winEnd(sec): 7345, packCount: 1085 , mostActC: 90, S-SA: 0, avSize: 197.468013, avTimeMostAct: 0.910967, F-S: 1 , susComb: 91 
+winStart(sec): 7290, winEnd(sec): 7355, packCount: 1055 , mostActC: 154, S-SA: 0, avSize: 288.402084, avTimeMostAct: 0.506353, F-S: 1 , susComb: 70 
+winStart(sec): 7300, winEnd(sec): 7365, packCount: 835 , mostActC: 178, S-SA: 0, avSize: 378.403459, avTimeMostAct: 0.805477, F-S: 1 , susComb: 52 
+winStart(sec): 7310, winEnd(sec): 7375, packCount: 507 , mostActC: 201, S-SA: 0, avSize: 213.533124, avTimeMostAct: 1.304634, F-S: 1 , susComb: 15 
